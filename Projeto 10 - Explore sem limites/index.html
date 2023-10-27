@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explore sem limites</title>
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="container">
+      <img id="astronaut" src="./Assets/astronaut.png" alt="Imagem de um astronauta no espaço">
+      <div class="mixed">
+        <h1>Explore sem limites</h1>
+        <p>Porque o aprendizado é contínuo</p>
+        <img id="buttonDown" src="./Assets/buttonDown.png" alt="Imagem de um botão apontando para baixo">
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <section>
+          <figure class="item">
+            <img src="./Assets/YellowPlanet.png" alt="Planeta amarelo">
+            <figcaption class="details">
+              <h2>Não pare nunca</h2>
+                <div class="tags">
+                  <span>Se você deseja ter sucesso nos estudos, é fundamental que você adote uma mentalidade de "não pare nunca". Estudar de forma consistente e contínua é a chave para o progresso e a conquista de seus objetivos.</span>
+                </div>
+            </figcaption>
+          </figure>
+          <figure class="item" style="--delay: 1s">
+            <img src="./Assets/BluePlanet.png" alt="Planeta azul">
+            <figcaption class="details">
+              <h2>Só volta</h2>
+                <div class="tags">
+                  <span>Se você parou ou perdeu o ritmo em alguma atividade ou projeto, saiba que nunca é tarde para recomeçar. Às vezes, as circunstâncias podem mudar, ou podemos nos sentir desmotivados ou sobrecarregados.</span>
+                </div>
+            </figcaption>
+          </figure>
+          <figure class="item" style="--delay: 1.5s">
+            <img src="./Assets/PinkPlanet.png" alt="Planeta rosa">
+            <figcaption class="details">
+              <h2>Siga seu ritmo</h2>
+                <div class="tags">
+                  <span>Avançar pouco a pouco mantém progresso constante em objetivos, evitando parar ou desistir. Mesmo pequenos passos nos aproximam do destino e motivam a continuidade. Não subestime o poder de cada ação rumo ao objetivo final.</span>
+                </div>
+            </figcaption>
+          </figure>
+        </section>
+      </div>
+    </main>
+    <aside>
+      <div class="form"> 
+        <fieldset>
+          <h1>Entre em contato</h1>
+          <div class="input-wrapper">
+            <img id="icon" src="./Assets/person.svg" alt="Ícone de um personagem">
+            <label for="contact-name">Seu nome</label>
+            <input id="contact-name" type="text" placeholder="Seu nome">
+          </div>
+          <div class="input-wrapper">
+            <img id="icon" src="./Assets/arroba.svg" alt="Ícone do @">
+            <label for="contact-email">Email</label>
+            <input id="contact-email" type="email" placeholder="Email">
+          </div>
+          <div class="input-wrapper">
+            <label for="contact-message">Digite sua mensagem aqui...</label>
+            <textarea id="contact-message" placeholder="Digite sua mensagem aqui..."></textarea>
+          </div>
+          <button class="message">Enviar mensagem</button>
+        </fieldset>
+        <img class="purplestar" src="./Assets/stars.png" alt="Imagem de estrelas roxas">
+      </div>
+    </aside>
+    <footer class="container">
+      <p>© 2023 - Rocketseat Explorer</p>
+    </footer>
+  </div>
+</body>
+</html>
