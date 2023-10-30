@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    🔒 Destinos
+    ✈️ Destinos
 </h1>
 <p align="center">
  Página de um site de destinos de viagem com pacotes turísticos, desenvolvida com conhecimentos intermediários de HTML e CSS.

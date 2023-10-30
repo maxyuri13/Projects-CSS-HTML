@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    🔒 Introdução a Responsividade
+    📱 Introdução a Responsividade
 </h1>
 <p align="center">
  Na aula que participei na Rocketseat, aprendi a melhorar aplicações com responsividade em páginas utilizando HTML e CSS com as media queries.
