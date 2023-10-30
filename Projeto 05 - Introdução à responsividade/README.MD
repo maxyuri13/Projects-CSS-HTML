@@ -8,15 +8,20 @@
 ### 📰 Layout
 
 <p align="center">
+  <span>Desktop</span>
+  <br>
   <img
     alt="Responsividade Page Desktop"
     title="Responsividade Page Desktop"
     src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="50%" height="50%"
   />
+  <br>
+  <span>Mobile</span>
+  <br>
   <img
     alt="Responsividade Page"
     title="Responsividade Page"
-    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="15%" height="15%"
+    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="10%" height="10%"
   />
 </p>
 
