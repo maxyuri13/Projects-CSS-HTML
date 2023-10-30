@@ -33,7 +33,7 @@
 
 ### ✍ Autor
 
-- Feito com 💙 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
 
   
 
