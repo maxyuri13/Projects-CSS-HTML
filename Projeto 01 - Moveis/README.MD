@@ -1,7 +1,7 @@
 ## 🪑 Moveis
 Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na criação de um espaço dedicado à decoração de ambientes, buscando transmitir elegância.
 <p align="center>
-<img src="https://i.imgur.com/Pdf1ilP.png">
+![Img PAGE](https://i.imgur.com/Pdf1ilP.png)
 </p>
 
 ## 🖥️ Técnologias 
