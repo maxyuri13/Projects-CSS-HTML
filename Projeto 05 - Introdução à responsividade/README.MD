@@ -13,7 +13,7 @@
   <img
     alt="Responsividade Page Desktop"
     title="Responsividade Page Desktop"
-    src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="50%" height="50%"
+    src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="75%" height="75%"
   />
   <br>
   <strong>Versão Mobile</strong>
