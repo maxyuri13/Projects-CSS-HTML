@@ -1,13 +1,13 @@
-## <h1 align="center">Moveis</h1>
-
-<h2 id="project">📁 Sobre o projeto</h2>
-
+## 🪑 Moveis
 Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na criação de um espaço dedicado à decoração de ambientes, buscando transmitir elegância.
-
-## <h2 id="pages">📃 Páginas</h2>
-
+<p align="center>
 <img src="https://i.imgur.com/Pdf1ilP.png">
-<br>
-<Strong align="center">Home<Strong>
+</p>
 
-<h2 id="pages">📃 Páginas</h2>
+## 🖥️ Técnologias 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
