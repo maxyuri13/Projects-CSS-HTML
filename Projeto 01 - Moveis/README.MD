@@ -5,7 +5,7 @@ Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na cri
 </p>
 
 ## 🖥️ Técnologias 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
