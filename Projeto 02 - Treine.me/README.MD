@@ -1,17 +1,34 @@
-# Project-Treine.me
+<h1 align="center"> 
+    🪑 Treine.me
+</h1>
+<p align="center">
+ Desenvolvimento de uma página usando HTML e CSS básico, aplicando conceitos mais desafiadores, inspirada em uma aplicação de criação de rotinas de treinos para o dia a dia.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Elaboração de um projeto piloto com o propósito de criar um site voltado para oferecer dicas de treinos online.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/oNJLZVZ
+<p align="center">
+  <img
+    alt="Treine.me Page"
+    title="Treine.me Page"
+    src="/Projeto 02 - Treine.me/images/Treine.me.png" width="100%"
+  />
+</p>
 
-<strong>EN</strong>
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - VSCode (Editor de código)
+  
 
-Creating a pilot project with the goal of developing a website dedicated to offering online workout tips.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/oNJLZVZ
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/oNJLZVZ). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💙 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
