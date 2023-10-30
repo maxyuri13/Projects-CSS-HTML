@@ -11,12 +11,12 @@
   <img
     alt="Responsividade Page Desktop"
     title="Responsividade Page Desktop"
-    src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="50%"
+    src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="50%" height="50%"
   />
   <img
     alt="Responsividade Page"
     title="Responsividade Page"
-    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="25%" height="25%"
+    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="15%" height="15%"
   />
 </p>
 
