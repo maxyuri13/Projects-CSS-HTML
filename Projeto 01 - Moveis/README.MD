@@ -2,10 +2,10 @@
 <h1 align="center"> 
     🪑 Móveis
 </h1>
-<br>
 <p align="center">
  Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na criação de um espaço dedicado à decoração de ambientes, buscando transmitir elegância.
 </p>
+<br>
 
 ### 📰 Layout
 
