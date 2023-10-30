@@ -28,7 +28,7 @@
 
 ### 📝 Licença
 
-- Este projeto esta sobe a licença [MIT](./LICENSE).
+- Este projeto esta sobe a licença [MIT](/LICENSE).
 
 ### ✍ Autor
 
