@@ -1,17 +1,39 @@
-# Project-Introduction-to-responsiveness
+<h1 align="center"> 
+    🔒 Introdução a Responsividade
+</h1>
+<p align="center">
+ Na aula que participei na Rocketseat, aprendi a melhorar aplicações com responsividade em páginas utilizando HTML e CSS com as media queries.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Aplicando a responsividade para tornar o site adaptável a uma ampla gama de resoluções de tela, tanto para dispositivos web quanto móveis.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br> 
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/YzdGXMj
+<p align="center">
+  <img
+    alt="Responsividade Page Desktop"
+    title="Responsividade Page Desktop"
+    src="/Projeto 05 - Introdução à responsividade/images/Desktop.png" width="50%"
+  />
+  <img
+    alt="Responsividade Page"
+    title="Responsividade Page"
+    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="500%"
+  />
+</p>
 
-<strong>EN</strong>
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - VSCode (Editor de código)
+  
 
-Applying responsiveness to make the site adaptable to a wide range of screen resolutions, for both web and mobile devices.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/YzdGXMj
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/YzdGXMj). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
