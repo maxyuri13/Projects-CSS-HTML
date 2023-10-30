@@ -16,7 +16,7 @@
   <img
     alt="Responsividade Page"
     title="Responsividade Page"
-    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="500%"
+    src="/Projeto 05 - Introdução à responsividade/images/Mobile.png" width="25%"
   />
 </p>
 
