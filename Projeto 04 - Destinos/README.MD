@@ -11,7 +11,7 @@
   <img
     alt="Destinos Page"
     title="Destinos Page"
-    src="/Projeto 04 - Destino/images/Destino.png" width="100%"
+    src="/Projeto 04 - Destinos/images/Destino.png" width="100%"
   />
 </p>
 
