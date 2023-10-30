@@ -1,17 +1,34 @@
-# Project-Dados
+<h1 align="center"> 
+    🪑 Dados
+</h1>
+<p align="center">
+ Página de um site de segurança de dados, onde são aplicados conceitos intermediários de HTML e CSS, visando criar uma plataforma informativa sobre segurança cibernética.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Desenvolvimento de um projeto piloto para criar o site de uma empresa que oferece serviços de segurança da informação para proteger seus dados.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br> 
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/JjwKWQb
+<p align="center">
+  <img
+    alt="Dados Page"
+    title="Dados Page"
+    src="/Projeto 03 - Dados/images/Dados.png" width="100%"
+  />
+</p>
 
-<strong>EN</strong>
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - VSCode (Editor de código)
+  
 
-Development of a pilot project to create a website for a company that provides information security services to safeguard your data.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/JjwKWQb
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/JjwKWQb). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💙 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
