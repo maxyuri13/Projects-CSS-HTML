@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    🪑 Dados
+    🔒 Dados
 </h1>
 <p align="center">
  Página de um site de segurança de dados, onde são aplicados conceitos intermediários de HTML e CSS, visando criar uma plataforma informativa sobre segurança cibernética.

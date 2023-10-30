@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    🪑 Treine.me
+    🏋️ Treine.me
 </h1>
 <p align="center">
  Desenvolvimento de uma página usando HTML e CSS básico, aplicando conceitos mais desafiadores, inspirada em uma aplicação de criação de rotinas de treinos para o dia a dia.
