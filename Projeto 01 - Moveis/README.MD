@@ -1,17 +1,9 @@
-# Project-Moveis
+<h1 align="center">Moveis</h1>
 
-<strong>PT-BR</strong>
+<h2 id="project">📁 Sobre o projeto</h2>
+Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na criação de um espaço dedicado à decoração de ambientes, buscando transmitir elegância.
 
-Desenvolvimento de um projeto piloto para a criação de um website de decoração de ambientes.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br> 
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/JjmjOGL
+<h2 id="pages">📃 Páginas</h2>
 
-<strong>EN</strong>
-
-Development of a pilot project for the creation of an interior decoration website.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets).
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/JjmjOGL
+A aplicação possui uma página extremamente intuitiva e de fácil compreensão.
+!["Página home"](https://i.imgur.com/Pdf1ilP.png)
