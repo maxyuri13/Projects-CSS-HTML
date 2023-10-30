@@ -5,6 +5,7 @@
 <p align="center">
  Desenvolvimento de uma página utilizando HTML e CSS Básico, com ênfase na criação de um espaço dedicado à decoração de ambientes, buscando transmitir elegância.
 </p>
+<br>
 
 ### 📰 Layout
 
@@ -28,7 +29,7 @@
 
 ### 📝 Licença
 
-- Este projeto esta sobe a licença [MIT](./LICENSE).
+- Este projeto esta sobe a licença [MIT](/LICENSE).
 
 ### ✍ Autor
 
