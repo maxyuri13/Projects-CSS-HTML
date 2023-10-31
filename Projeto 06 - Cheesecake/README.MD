@@ -33,7 +33,7 @@
 
 ### 💡 Pré Requisitos
   - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
-  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/KKbMJjz). 
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/KKbMJjz){:target="_blank"}. 
 
 ### 📝 Licença
 
