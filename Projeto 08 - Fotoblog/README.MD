@@ -1,17 +1,43 @@
-# Project-photo-blog
+<h1 align="center"> 
+    🤳 Fotoblog
+</h1>
+<p align="center">
+ Desenvolvimento de uma page de Blog de Fotos Responsivo, altamente intuitivo, com ênfase na aplicação de um design responsivo e adaptado para uma experiência de usuário excepcional em todos os dispositivos.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Projeto com o objetivo de criar um photoblog utilizando GRID e animações com transições suaves.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/yLGaYpX
+<p align="center">
+  <img
+    alt="Fotoblog Page"
+    title="Fotoblog Page"
+    src="/Projeto 08 - Fotoblog/Assets/Fotoblog.png" width="100%"
+  />
+</p>
 
-<strong>EN</strong>
+### 👀 Métodologias utilizadas 
+  - Responsividade (Mobile/Desktop)
+  - Unidade de medida flexível
+  - Grid
+  - Variáveis no CSS
+  - Cores HSL
+  - Animações e transições simples
 
-Project aimed at developing a photoblog using GRID and animations with smooth transitions.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/yLGaYpX
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - Figma
+  - VSCode (Editor de código)
+  
+
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/yLGaYpX). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
