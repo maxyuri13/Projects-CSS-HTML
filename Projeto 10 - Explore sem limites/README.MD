@@ -1,17 +1,53 @@
-# Project-explore-your-limits
+<h1 align="center"> 
+    👨‍🚀 Explore sem limites
+</h1>
+<p align="center">
+ Realização do desenvolvimento de uma página web voltada para o tema de exploração espacial, utilizando técnicas avançadas de HTML e CSS. A aplicação de diversas metodologias e melhores práticas assegura a criação de um design sofisticado e altamente eficaz, proporcionando uma experiência envolvente para os visitantes.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Desenvolvimento de um projeto-piloto para um website com a empolgante temática espacial de astronauta, priorizando abordagens mobile-first, unidades de medida flexíveis, GRID, variáveis no CSS, paletas de cores HSL e animações com transições suaves.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets).
-<br><br>
-Projeto no codepen.io = https://codepen.io/maxyuri13/pen/PoXQKRb
+<p align="center">
+  <strong>Versão Desktop</strong>
+  <br>
+  <img
+    alt="Explore sem limites Desktop"
+    title="Explore sem limites Desktop"
+    src="/Projeto 10 - Explore sem limites/Assets/Explore Desktop.png" width="75%" height="75%"
+  />
+  <br>
+  <strong>Versão Mobile</strong>
+  <br>
+  <img
+    alt="Explore sem limites Mobile"
+    title="Explore sem limites Mobile"
+    src="/Projeto 10 - Explore sem limites/Assets/Explore Mobile.png" width="25%" height="25%"
+  />
+</p>
 
-<strong>EN</strong>
+### 👀 Métodologias utilizadas 
+  - Responsividade (Mobile/Desktop)
+  - Unidade de medida flexível
+  - Grid
+  - Variáveis no CSS
+  - Cores HSL
+  - Animações e transições simples
 
-Development of a pilot project for a website with the exciting astronaut-themed space theme, prioritizing mobile-first approaches, flexible units of measurement, GRID, CSS variables, HSL color palettes, and smooth transition animations.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets).
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/PoXQKRb
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - Figma
+  - VSCode (Editor de código)
+  
+
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/PoXQKRb). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
