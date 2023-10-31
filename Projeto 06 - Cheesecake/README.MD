@@ -1,17 +1,44 @@
-# Project-Cheesecake
+<h1 align="center"> 
+    🧁 Cheesecake
+</h1>
+<p align="center">
+ Implementação de layout responsivo para uma receita de bolo, adaptando-se tanto a dispositivos Web quanto a dispositivos móveis.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Projeto piloto para testar a responsividade de uma receita de bolo para navegadores no Desktop e dispositivos móveis.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language) e <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br> 
-Projeto no codepen.io: https://codepen.io/maxyuri13/pen/KKbMJjz
+<p align="center">
+  <strong>Versão Desktop</strong>
+  <br>
+  <img
+    alt="Cheesecake Desktop"
+    title="Responsividade Page Desktop"
+    src="/Projeto 06 - Cheesecake/assets/Cheesecake Desktop.png" width="75%" height="75%"
+  />
+  <br>
+  <strong>Versão Mobile</strong>
+  <br>
+  <img
+    alt="Cheesecake Mobile"
+    title="Cheesecake Mobile"
+    src="/Projeto 06 - Cheesecake/assets/Cheesecake Mobile.png" width="25%" height="25%"
+  />
+</p>
 
-<strong>EN</strong>
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - VSCode (Editor de código)
+  
 
-Pilot project to test the responsiveness of a cake recipe for desktop and mobile browsers.
-<br><br>
-Technologies used: <strong>HTML5</strong> (HyperText Markup Language) and <strong>CSS3</strong> (Cascading Style Sheets). 
-<br><br>
-Project on codepen.io: https://codepen.io/maxyuri13/pen/KKbMJjz
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina.
+  - Também é possível visualizar o código no [CodePen](https://codepen.io/maxyuri13/pen/KKbMJjz). 
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
